@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Profit",
+      "last_name": "Bills",
+      "email": "profitbills@gmail.com",
+      "password": "profitBills@1234"
+    }
+    
+  ]
+}
